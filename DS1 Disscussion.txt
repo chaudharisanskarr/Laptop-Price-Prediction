@@ -1,0 +1,15 @@
+random forest using regressor
+divide the data in training and
+r^2 -- 0 to 1 near to 1 is best ,, rmsc ,, mae (make all between 0 to 1)
+learning rate ......
+
+
+pre processing
+we have to convert into factors.....
+
+SVR
+XGBOOST
+
+NAIVE BAYES
+
+
